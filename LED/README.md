@@ -37,7 +37,3 @@ Dự án sử dụng vi điều khiển **Arduino** điều khiển dãy 5 đèn
 5. Nhấn **Nút 1** để bắt đầu hoặc làm mới chuỗi hiệu ứng. Nhấn **Nút 2** để kích hoạt chế độ sáng toàn bộ 5 giây.
 
 ---
-
-## 📄 Giấy phép (License)
-
-Dự án được phân phối dưới giấy phép **MIT License**.
