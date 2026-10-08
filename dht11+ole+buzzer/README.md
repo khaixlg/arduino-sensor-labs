@@ -40,17 +40,3 @@ Cài đặt các thư viện sau trong **Arduino IDE** (*Tools -> Manage Librari
 * `Wire` (Tích hợp sẵn trong Arduino Core)[cite: 14]
 
 ---
-
-## 🚀 Hướng dẫn sử dụng
-
-1. Kết nối linh kiện theo đúng bảng **Pinout** ở trên[cite: 14].
-2. Mở file mã nguồn `.ino` bằng **Arduino IDE**[cite: 14].
-3. Chọn đúng loại Bo mạch (ví dụ: *Arduino Uno* hoặc *Arduino Nano*) và Cổng COM tương ứng.
-4. Bấm **Upload** để nạp chương trình.
-5. Quan sát màn hình hiển thị OLED lúc khởi động (`"Starting..."`) và theo dõi thông số đo thời gian thực[cite: 14].
-
----
-
-## 📄 Giấy phép (License)
-
-Dự án được phân phối dưới giấy phép **MIT License**.
